@@ -44,7 +44,7 @@ logTime(name,days);
 
 const event2 = getRandomEvent();
 const days2 = getTrainingDays(event2);
-const name2 = 'Warren';
+const name2 = 'Hilde';
 
 logEvents(name2, event2);
 logTime(name2, days2);
